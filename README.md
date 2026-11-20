@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=EternityLord0&color=388bfd&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=gabrielhvc&color=388bfd&style=flat-square&label=PROFILE+VIEWS)
 
 # Gabriel Caldeira
 
@@ -12,7 +12,7 @@
   <a href="https://gabrielhvc-portifolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:gabrielhvc10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Contributions-1.9k%2B%20%2F%20year-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Contributions" />
-  <a href="https://github.com/EternityLord0"><img src="https://img.shields.io/github/followers/EternityLord0?label=Follow&style=social" alt="Followers" /></a>
+  <a href="https://github.com/gabrielhvc"><img src="https://img.shields.io/github/followers/gabrielhvc?label=Follow&style=social" alt="Followers" /></a>
 </p>
 
 </div>
@@ -69,8 +69,8 @@ class GabrielCaldeira implements FullStackArchitect, AISystemsEngineer {
 
 | Project | Stack | Description | Highlights |
 | :--- | :--- | :--- | :--- |
-| [**voice-clone-colab**](https://github.com/EternityLord0/voice-clone-colab) | Python, PyTorch, XTTS-v2 | High-fidelity voice cloning studio notebook tailored for Google Colab environments. | Multi-language zero-shot speaker adaptation, audio preprocessing, automated checkpoint loading. |
-| [**linkedin-auto-job-applier**](https://github.com/EternityLord0/linkedin-auto-job-applier-ai-master) | Python, Selenium, RPA | Autonomous RPA pipeline for opportunity tracking and automated workflow submission. | Headless scraping resilience, intelligent field resolution, robust rate-limiting controls. |
+| [**voice-clone-colab**](https://github.com/gabrielhvc/voice-clone-colab) | Python, PyTorch, XTTS-v2 | High-fidelity voice cloning studio notebook tailored for Google Colab environments. | Multi-language zero-shot speaker adaptation, audio preprocessing, automated checkpoint loading. |
+| [**linkedin-auto-job-applier**](https://github.com/gabrielhvc/linkedin-auto-job-applier-ai-master) | Python, Selenium, RPA | Autonomous RPA pipeline for opportunity tracking and automated workflow submission. | Headless scraping resilience, intelligent field resolution, robust rate-limiting controls. |
 
 ---
 
@@ -108,8 +108,8 @@ class GabrielCaldeira implements FullStackArchitect, AISystemsEngineer {
 ### 📈 Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EternityLord0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Gabriel Caldeira GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternityLord0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhvc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Gabriel Caldeira GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhvc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ---
