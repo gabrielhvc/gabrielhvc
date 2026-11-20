@@ -41,32 +41,36 @@ AI & Systems  :: PyTorch, XTTS-v2 Voice Synthesis, LLM Tooling, Automated RPA & 
 
 | Project | Stack | Description | Highlights |
 | :--- | :--- | :--- | :--- |
-| [**Emberveil**](https://github.com/EternityLord0/Emberveil) | TypeScript, PixiJS 8, Vite | Action survival roguelite (*Vigil of the Sunken Shore*) built on WebGL. | Strict 60 FPS loop, spatial hash grid, GC-free entity pooling, multi-touch virtual controls. |
 | [**voice-clone-colab**](https://github.com/EternityLord0/voice-clone-colab) | Python, PyTorch, XTTS-v2 | High-fidelity voice cloning studio notebook tailored for Google Colab environments. | Multi-language zero-shot speaker adaptation, audio preprocessing, automated checkpoint loading. |
 | [**linkedin-auto-job-applier**](https://github.com/EternityLord0/linkedin-auto-job-applier-ai-master) | Python, Selenium, Automation | Autonomous RPA pipeline for opportunity tracking and automated workflow submission. | Headless scraping resilience, intelligent field resolution, robust rate-limiting controls. |
 
 ---
 
-### 🏢 Enterprise Architectures & Systems (Case Studies)
+### 🏢 Featured Architectures & Proprietary Systems (Case Studies)
 
-> Systems built for commercial operations, private data pipelines, and quantitative applications.
+> Advanced systems built for real-time graphics, commercial operations, and quantitative pipelines.
 
-* **Polyanalytics & Market Intelligence (`polymarket`)**  
+* 🎮 **Emberveil: Vigil of the Sunken Shore**  
+  *Top-down action survival roguelite engine built on PixiJS 8 & WebGL.*  
+  * *Architecture:* Custom game loop maintaining strict 60 FPS, spatial hash grid for collision detection, zero-allocation entity pooling to eliminate GC spikes, and dual-stick virtual gamepad with haptics.  
+  * *Stack:* TypeScript, PixiJS 8, Vite, WebGL, Howler.js audio bus.
+
+* 📊 **Polyanalytics & Market Intelligence (`polymarket`)**  
   *High-throughput event streaming & analytics platform.*  
   * *Architecture:* Real-time ingestion of prediction market orderbooks, WebSocket event listeners, and historical odds modeling.  
   * *Stack:* Python, Next.js, PostgreSQL, Redis caching, statistical backtesting engines.
 
-* **Gráfica Ouro e Prata ERP & Commercial Core (`graficaouroeprata`)**  
+* 🏭 **Gráfica Ouro e Prata ERP & Commercial Core (`graficaouroeprata`)**  
   *End-to-end industrial management system for commercial printing operations.*  
   * *Architecture:* Service order lifecycle tracking, inventory reconciliation, multi-stage production kanban, and fiscal/billing management.  
   * *Stack:* React, TypeScript, Supabase (Row Level Security & Edge Functions), PostgreSQL.
 
-* **TrackerInvest / Cloud Financial Wallet (`my-supabase-wallet`)**  
+* 💼 **TrackerInvest / Cloud Financial Wallet (`my-supabase-wallet`)**  
   *Multi-asset investment tracking and financial management platform.*  
   * *Architecture:* Real-time portfolio valuation, automated dividend tracking, asset allocation rebalancing, and audit-proof ledger calculations.  
   * *Stack:* TypeScript, React, Tailwind CSS, Supabase Backend-as-a-Service.
 
-* **Memorial Cristo Redentor Platform (`memorialcristoredentor`)**  
+* 🕊️ **Memorial Cristo Redentor Platform (`memorialcristoredentor`)**  
   *Modern institutional portal and centralized management infrastructure.*  
   * *Architecture:* High-availability web presence, responsive client portals, and secure record indexing.  
   * *Stack:* React, Node.js, modern component architecture.
