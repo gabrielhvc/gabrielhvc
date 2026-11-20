@@ -1,5 +1,7 @@
 <div align="center">
 
+![](https://komarev.com/ghpvc/?username=EternityLord0&color=388bfd&style=flat-square&label=PROFILE+VIEWS)
+
 # Gabriel Caldeira
 
 ### Senior Full-Stack & AI Systems Engineer
@@ -10,30 +12,56 @@
   <a href="https://gabrielhvc-portifolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:gabrielhvc10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Contributions-1.9k%2B%20%2F%20year-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Contributions" />
+  <a href="https://github.com/EternityLord0"><img src="https://img.shields.io/github/followers/EternityLord0?label=Follow&style=social" alt="Followers" /></a>
 </p>
 
 </div>
 
 ---
 
-### ⚡ Executive Summary
-Software Engineer with 8+ years on GitHub and **1,900+ contributions in the last year alone**, specialized in designing and delivering high-throughput web architectures, autonomous AI pipelines, and real-time graphics applications. Currently building at **The Duracell Company**.
+### 💻 About Me & Engineering Profile
 
-- 🔭 **Core Engineering:** Enterprise-grade full-stack architectures (React, Next.js, Node.js, Python, TypeScript, PostgreSQL, Supabase).
-- 🤖 **AI & Applied ML:** Generative AI pipelines, XTTS-v2 voice cloning studios, automated RPA agents, and predictive market intelligence.
-- 🎮 **Real-Time Graphics:** Game development and WebGL render engines in PixiJS 8 targeting deterministic 60 FPS performance and GC mitigation.
-- 📐 **Engineering Philosophy:** Clean code, idempotent background pipelines, defensive typing, and zero speculation.
+```typescript
+import type { FullStackArchitect, AISystemsEngineer } from '@engineering/core';
+
+class GabrielCaldeira implements FullStackArchitect, AISystemsEngineer {
+  readonly name        = 'Gabriel Caldeira';
+  readonly role        = 'Senior Full-Stack & AI Systems Engineer';
+  readonly company     = 'The Duracell Company';
+  readonly location    = 'São Paulo, Brazil';
+  readonly throughput  = '1,950+ yearly contributions (8+ years active on GitHub)';
+  readonly coreDomains = [
+    'Distributed Full-Stack Architectures',
+    'Applied Speech AI & Autonomous RPA Agents',
+    'WebGL / WebGPU Real-Time 60FPS Graphics Engines'
+  ];
+  readonly techStack   = {
+    languages : ['TypeScript', 'JavaScript (ESNext)', 'Python 3.11+', 'SQL'],
+    frontend  : ['React', 'Next.js', 'Tailwind CSS', 'Vite', 'PixiJS 8'],
+    backend   : ['Node.js', 'Express', 'Supabase (RLS & Edge Functions)', 'PostgreSQL', 'WebSockets'],
+    ai_ml     : ['PyTorch', 'XTTS-v2 Voice Synthesis', 'LLM Agent Pipelines', 'Selenium / Playwright RPA'],
+    devOps    : ['Docker', 'Git / GitHub Actions', 'Redis Caching']
+  };
+}
+```
 
 ---
 
-### 🛠️ Technical Stack & Tooling
+### 🛠️ Languages & Technologies
 
-```
-Languages     :: TypeScript, JavaScript (ESNext), Python 3.11+, SQL, HTML5 / CSS3
-Frontend      :: React, Next.js, Tailwind CSS, Vite, PixiJS 8 (WebGL / WebGPU)
-Backend & Data:: Node.js, Express, Supabase (PostgreSQL, RLS, Edge Functions), RESTful APIs, WebSockets
-AI & Systems  :: PyTorch, XTTS-v2 Voice Synthesis, LLM Tooling, Automated RPA & Scrapers, Docker, Git
-```
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"/></code>
 
 ---
 
@@ -42,7 +70,7 @@ AI & Systems  :: PyTorch, XTTS-v2 Voice Synthesis, LLM Tooling, Automated RPA & 
 | Project | Stack | Description | Highlights |
 | :--- | :--- | :--- | :--- |
 | [**voice-clone-colab**](https://github.com/EternityLord0/voice-clone-colab) | Python, PyTorch, XTTS-v2 | High-fidelity voice cloning studio notebook tailored for Google Colab environments. | Multi-language zero-shot speaker adaptation, audio preprocessing, automated checkpoint loading. |
-| [**linkedin-auto-job-applier**](https://github.com/EternityLord0/linkedin-auto-job-applier-ai-master) | Python, Selenium, Automation | Autonomous RPA pipeline for opportunity tracking and automated workflow submission. | Headless scraping resilience, intelligent field resolution, robust rate-limiting controls. |
+| [**linkedin-auto-job-applier**](https://github.com/EternityLord0/linkedin-auto-job-applier-ai-master) | Python, Selenium, RPA | Autonomous RPA pipeline for opportunity tracking and automated workflow submission. | Headless scraping resilience, intelligent field resolution, robust rate-limiting controls. |
 
 ---
 
